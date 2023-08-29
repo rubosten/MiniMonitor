@@ -15,3 +15,4 @@ SCL->22
 SDA->21
 
 Once this is completed, download the firmware folder and open in platformio. Edit the main.cpp file in the src directory and fill out your WiFi credentials. Then, flash the firmware and everything should be working.
+![IMG_3379](https://github.com/rubosten/MiniMonitor/assets/143548699/dd9426f7-20ec-4e40-9a92-5096a54af056)
