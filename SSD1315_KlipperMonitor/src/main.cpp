@@ -13,8 +13,8 @@
 
 U8G2_SSD1306_128X64_NONAME_1_HW_I2C oled(U8G2_R0, /* reset=*/U8X8_PIN_NONE);
 
-const char *ssid = "#Telia-9367E0";
-const char *password = "E%%Ry29vY9#zGf8)";
+const char *ssid = "SSID";
+const char *password = "PASSWORD";
 
 float heater_bed;
 float heater_bed_target;
